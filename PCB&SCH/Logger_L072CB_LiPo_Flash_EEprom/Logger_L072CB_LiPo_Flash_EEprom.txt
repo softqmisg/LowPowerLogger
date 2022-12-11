@@ -1,0 +1,35 @@
+Board Information Report
+Filename     : F:\Mofidi\WORKSPACE\sanjeh\LowPowerLogger\PCB&SCH\Logger_L072CB_LiPo_Flash_EEprom\Logger_L072CB_LiPo_Flash_EEprom.PcbDoc
+Date         : 12/10/2022
+Time         : 12:40:03 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 55mmx30mm
+    Components on board, 53
+count : 2
+
+Pad Solder Mask, Count
+    0.06mm, 8
+    0.1016mm, 187
+count : 2
+
+Pad Paste Mask, Count
+    0mm, 195
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 195
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 195
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 195
+count : 1
+
+Pad Relief Entries, Count
+    4, 195
+count : 1
